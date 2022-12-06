@@ -11,7 +11,7 @@ public class PrintArray {
         //WRITE YOUR CODE BELOW
 
         System.out.println(Arrays.toString(nums));
-
+        System.out.println("github deneme");
 
     }
 }
