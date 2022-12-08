@@ -30,6 +30,7 @@ public class ShoppingList {
 
             System.out.println("Do you want to add more items to the shopping list?");
             answer = scan.next();
+            // s
 
             shoppingList += itemName + " x " + quantity + " - $" + (priceOfItem * quantity) + "\n";
 
